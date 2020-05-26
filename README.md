@@ -11,6 +11,6 @@ nlp-topic1.rmd is about the basic text processing and LDA in R
 
 2. for python
 
-spacy-get-started is about the basic of spacy
+spacy_get_started.ipynb is about the basic of spacy
 
-text processing with logistic regression is the attempt of logistic regression in NLP
+Text Classification with Logistic Regression.ipynb is the attempt of logistic regression in NLP
